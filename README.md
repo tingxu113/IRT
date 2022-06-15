@@ -1,12 +1,7 @@
 # IRT
 # Method
 
-***Motivation:*** Fig. 1. (a) Plot of the intensity for both the PAN image and the HRMS data
-randomly choosing a row of the image; (b) Plot of the gradient intensity for
-both the PAN image and the HRMS data considering blue (B), green (G), red
-(R), and near-infrared (NIR) bands for the same row as in (a). It is worth to
-be remarked that the behavior of PAN and HRMS images is more similar in
-the gradient domain than in the intensity domain.
+***Motivation:*** Top：Statistical analysis of low tensor tubal rank on seven HR-HSIs (the same color represents the same dataset). (a)–(f) Normalized tensor singular value curve of original HR-HSI and five permuted HR-HSIs, respectively. Middle：(a) Diagram of TenSR and MatSR. (b) HSI-SR results by using TenSR and MatSR with different subspace dimensions. Bottom: The illustration of the spatial–spectral nonlocal self-similarity property of the tensor coefficient.
 
 <img src="fig-to-show/2.png" width = "50%" />
 <img src="fig-to-show/3.png" width = "50%" />
