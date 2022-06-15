@@ -7,8 +7,8 @@
 (a) Diagram of TenSR and MatSR. (b) HSI-SR results by using TenSR and MatSR with different subspace dimensions. 
 <img src="fig-to-show/3.png" width = "50%" />
 
-The illustration of the spatial–spectral nonlocal self-similarity property of the tensor coefficient.
-<img src="fig-to-show/4.png" width = "80%" />
+ The spatial–spectral nonlocal self-similarity property of the tensor coefficient.
+<img src="fig-to-show/4.png" width = "60%" />
 
 
 
