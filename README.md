@@ -3,8 +3,10 @@
 
 ***Motivation:*** Statistical analysis of low tensor tubal rank on seven HR-HSIs (the same color represents the same dataset). (a)–(f) Normalized tensor singular value curve of original HR-HSI and five permuted HR-HSIs, respectively.
 <img src="fig-to-show/2.png" width = "80%" />
+
 (a) Diagram of TenSR and MatSR. (b) HSI-SR results by using TenSR and MatSR with different subspace dimensions. 
 <img src="fig-to-show/3.png" width = "50%" />
+
 The illustration of the spatial–spectral nonlocal self-similarity property of the tensor coefficient.
 <img src="fig-to-show/4.png" width = "50%" />
 
