@@ -53,9 +53,9 @@ pages={},
 ***Visual Results:*** HSI-SR results of Indian Pines. The first and second rows present the results consisting of 11th, 48th, and 128th band of the fused images under
 SNR = 15 dB and the corresponding error maps, respectively. The blue block shows the representation region.
 
-<img src="fig-to-show/7.png" width = "50%" />
+<img src="fig-to-show/7.png" width = "90%" />
 
 
 ***Quantitative Results:*** Quantitative evaluation of different methods on Indian Pines dataset with four noise cases
 
-<img src="fig-to-show/8.png" width = "90%" />
+<img src="fig-to-show/8.png" width = "50%" />
